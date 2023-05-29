@@ -1,0 +1,4 @@
+name: StackKeeper
+version: '1.0-SNAPSHOT'
+main: stackkeeper.stackkeeper.StackKeeper
+api-version: 1.19

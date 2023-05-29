@@ -1,0 +1,4 @@
+name: StackKeeper
+version: '${project.version}'
+main: stackkeeper.stackkeeper.StackKeeper
+api-version: 1.19
